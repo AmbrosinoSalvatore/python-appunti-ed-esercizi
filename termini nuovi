@@ -1,2 +1,6 @@
 slicing: meccanismo attraverso il quale recuperiamo una parte di lista in python
 list comprehention:costruiamo una lista nelle[] le istruzioni per generare i singoli elementi della lista
+una funzione è un costrutto sintattico di un linguaggio di programmmazione che permette di raggruppare un insieme di istruzoni che vengono ripetute nel programma
+imput e output
+funzioni: una funzione può avere nessun o più argomenti(o parametri),valori di ingresso su cui avviene la funzione
+dopo che le istruzioni soo state processate la funzione può avere anche dei valori di output
